@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #1c1c1c; /* Cor de fundo */
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff; /* Cor do texto */
+  margin-right: 20px;
+}
+
+.nav-link:hover {
+  color: #007bff; /* Cor do texto ao passar o mouse */
+}
